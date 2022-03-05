@@ -3,3 +3,7 @@ This repository contains Machine Learning introductory level tutorial based on H
 
 #### Prerequisites
 - [Install Anaconda](https://docs.anaconda.com/anaconda/install/index.html) 
+
+#### What you will learn?
+- Python
+- 
