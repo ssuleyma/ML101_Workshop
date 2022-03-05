@@ -6,12 +6,12 @@ This repository contains Machine Learning introductory level tutorial based on 2
 #### Prerequisites
 - [Install Anaconda](https://docs.anaconda.com/anaconda/install/index.html) 
 
-#### What you will learn?
+#### What will you learn?
 1. Python Basics
 2. Numpy and Pandas
 3. Data Preparation
 4. Exploratory Data Analysis
 5. Feature Engineering
-6. Modeling
+6. Modeling - Supervised ML - Classifiction 
 7. Model Evaluation
 8. Overfitting and Underfitting
